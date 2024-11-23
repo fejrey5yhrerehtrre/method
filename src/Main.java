@@ -3,10 +3,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-//        int[] array = {1, 2, 3, 4, 5, 6, 7, 8};
-//        for (int i = array.length - 1; i >= 0; i--) {
-//            System.out.println(array[i]);
-//
+        int[] array = {1, 2, 3, 4, 5, 6, 7, 8};
+        for (int i = array.length - 1; i >= 0; i--) {
+            System.out.println(array[i]);
+
 //
 //        }
 //    }
@@ -90,18 +90,18 @@ public class Main {
 //    int count = 0;
 //    for (int i = a.length - 1; i >= 0; i--) {
 //        s[count] = a[i];
+//public static int[] example(int[] a) {
+//    int[] s = new int[a.length];
 //        count++;
 //    }
-//    return s;
-
-
+//    return e;
+//
+//
 //    int[] array = {4, 7, 2};
 //    System.out.println(Arrays.toString(array));
 //    System.out.println(Arrays.toString(example(array)));
 //}
 //
-//public static int[] example(int[] a) {
-//    int[] s = new int[a.length];
 //    int count = 0;
 //    for (int i = a.length - 1; i >= 0; i--) {
 //        s[count] = a[i];
@@ -110,25 +110,28 @@ public class Main {
 //    return s;
 //    }}}}ddr
 
-        System.out.println("**");
-        System.out.println("***");
-        System.out.println("****");
-        System.out.println("*****");
-        System.out.println("*******");
-        System.out.println("********");
-        System.out.println("*******");
-        System.out.println("******");
-        System.out.println("*****");
-        System.out.println("****");
-        System.out.println("***");
-        System.out.println("**");
+//        System.out.println("**");
+//        System.out.println("***");
+//        System.out.println("****");
+//        System.out.println("*****");
+//        System.out.println("*******");
+//        System.out.println("********");
+//        System.out.println("*******");
+//        System.out.println("******");
+//        System.out.println("*****");
+//        System.out.println("****");
+//        System.out.println("***");
+//        System.out.println("**");
+//
+//        System.out.println(" базарбай");
+//        System.out.println("             щйноогону");
+//        System.out.println("                         кетти");
+//
+//     Scanner rt = new Scanner(System.in);
+//     int uy = rt .nextInt(1);
 
-        System.out.println(" базарбай");
-        System.out.println("             щйноогону");
-        System.out.println("                         кетти");
     }
 
-
-}
+    }}
 
 
