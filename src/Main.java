@@ -123,7 +123,9 @@ public class Main {
         System.out.println("***");
         System.out.println("**");
 
-
+        System.out.println(" базарбай");
+        System.out.println("             щйноогону");
+        System.out.println("                         кетти");
     }
 
 
