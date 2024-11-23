@@ -110,22 +110,26 @@ public class Main {
 //    return s;
 //    }}}}ddr
 
-        System.out.println("**");
-        System.out.println("***");
-        System.out.println("****");
-        System.out.println("*****");
-        System.out.println("*******");
-        System.out.println("********");
-        System.out.println("*******");
-        System.out.println("******");
-        System.out.println("*****");
-        System.out.println("****");
-        System.out.println("***");
-        System.out.println("**");
+//        System.out.println("**");
+//        System.out.println("***");
+//        System.out.println("****");
+//        System.out.println("*****");
+//        System.out.println("*******");
+//        System.out.println("********");
+//        System.out.println("*******");
+//        System.out.println("******");
+//        System.out.println("*****");
+//        System.out.println("****");
+//        System.out.println("***");
+//        System.out.println("**");
+//
+//        System.out.println(" базарбай");
+//        System.out.println("             щйноогону");
+//        System.out.println("                         кетти");
+//
+     Scanner rt = new Scanner(System.in);
+     int uy = rt .nextInt(1);
 
-        System.out.println(" базарбай");
-        System.out.println("             щйноогону");
-        System.out.println("                         кетти");
     }
 
 
