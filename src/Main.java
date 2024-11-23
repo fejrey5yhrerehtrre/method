@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -67,9 +68,9 @@ public class Main {
 //            sum += array[i];
 //        }
 
-
-//        return sum;
-//    }}
+//        System.out.println();
+////        return sum;
+////    }}
 
 //Scanner scanner = new Scanner(System.in);
 //int a = scanner.nextInt();
@@ -94,9 +95,6 @@ public class Main {
 //    return s;
 
 
-
-
-
 //    int[] array = {4, 7, 2};
 //    System.out.println(Arrays.toString(array));
 //    System.out.println(Arrays.toString(example(array)));
@@ -110,4 +108,25 @@ public class Main {
 //        count++;
 //    }
 //    return s;
-//    }}}}ddrcofvm
+//    }}}}ddr
+
+        System.out.println("**");
+        System.out.println("***");
+        System.out.println("****");
+        System.out.println("*****");
+        System.out.println("*******");
+        System.out.println("********");
+        System.out.println("*******");
+        System.out.println("******");
+        System.out.println("*****");
+        System.out.println("****");
+        System.out.println("***");
+        System.out.println("**");
+
+
+    }
+
+
+}
+
+
